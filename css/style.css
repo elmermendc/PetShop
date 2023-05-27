@@ -1,0 +1,48 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Playfair+Display&family=Roboto:ital,wght@0,500;1,100&display=swap');
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.cabecera-info{
+    background-color: #222222;
+    color: #F3F3F3;
+}
+.cabecera-principal{
+    background-color: #F0A83E;
+}
+.principal{
+    background-image: url('../imagenes/bowl-and-pet-daities-on-green-background\ 1.png');
+    height: 409px;
+}
+.principal-titulo{
+    font-size: 30px;
+    background-color: #FFFFFF;
+}
+.principal-boton{
+    background-color: #F0A83E;
+}
+.productos-destacados{
+    font-size: 40px;
+}
+.contactanos-texto{
+    font-size: 25px;
+}
+
+.suscribete{
+    background-color: #F0A83E;
+}
+
+.info{
+    background-color: #3C2313;
+    color: #FFFFFF;
+}
+.info-titulo{
+    font-size: 20px;
+}
+.info-subtitulo{
+    font-size: 10px;
+    color: #8A8787;
+}
+.derechos{
+    background-color: #222222;
+}
